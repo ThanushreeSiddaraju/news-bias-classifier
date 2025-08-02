@@ -23,6 +23,12 @@ The model is built using **Hugging Face Transformers** (DistilBERT) and fine-tun
 
 ---
 
+## 🌐 Live Demo
+
+Try NewsMind here 👉 [https://huggingface.co/spaces/puvankumarv/newsmind](https://huggingface.co/spaces/puvankumarv/newsmind)
+
+---
+
 ## 📂 Dataset
 
 - **Source:** [AllSides Balanced News Dataset](https://github.com/irgroup/Qbias)
